@@ -1,0 +1,17 @@
+amqp==1.4.9
+anyjson==0.3.3
+billiard==3.3.0.23
+celery==3.1.26.post2
+celery-with-redis==3.0
+Django==1.11.17
+django-celery==3.2.2
+django-haystack==2.8.1
+django-redis-sessions==0.6.1
+django-tinymce==2.7.0
+jieba==0.39
+kombu==3.0.37
+Pillow==5.3.0
+pytz==2018.7
+redis==3.0.1
+vine==1.1.4
+Whoosh==2.7.4
